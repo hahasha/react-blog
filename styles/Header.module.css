@@ -1,0 +1,25 @@
+.header {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.content {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.logo {
+  color:#1e90ff;
+  font-size: 1.4rem;
+}
+
+.text {
+  font-size: 0.6rem;
+  color: #999;
+  display: inline-block;
+  padding-left: 0.3rem;
+}
+
+.menu {
+  border-bottom: none;
+}

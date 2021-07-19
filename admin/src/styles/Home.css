@@ -1,0 +1,15 @@
+.trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.logo {
+  font-size: 22px;
+  color: #1890ff;
+  text-align: center;
+  line-height: 60px;
+  font-family: monospace;
+}
+.logo span {
+  display: inline-block;
+}

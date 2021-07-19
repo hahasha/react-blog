@@ -1,0 +1,22 @@
+.ant-spin-container {
+  height: 100vh;
+}
+.ant-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+}
+.ant-card-head-title {
+  text-align: center;
+}
+.ant-input-affix-wrapper {
+  margin-bottom: 10px;
+}
+.ant-input-affix-wrapper > input.ant-input {
+  font-size: 14px;
+}
+.ant-input-prefix {
+  color: #999;
+}

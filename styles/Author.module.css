@@ -1,0 +1,22 @@
+.author {
+  text-align: center;
+  padding: 1rem .2rem;
+}
+.text {
+  margin-top: 1rem;
+  font-size: 12px;
+  color: #333;
+}
+.introduction {
+  font-size:.8rem;
+  color: #999;
+}
+.tags {
+  margin: 1.2rem 0;
+  line-height: 28px;
+}
+.account {
+  background-color: #ccc;
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
